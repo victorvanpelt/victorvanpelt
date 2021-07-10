@@ -1,11 +1,11 @@
-#### Hi there, I'm Victor
+## Hi there, I'm Victor
 
-### I work in academia
+#### I work in academia
 - I'm currently working as an Assistant Professor at <a href="https://www.whu.edu/en/faculty/victor-van-pelt/" target="_blank">WHU - Otto Beisheim School of Management</a>
 - I use Github to share the code I use to conduct research and analyze data
 - I write blog posts about experimental research in accounting at <a href="https://www.accountingexperiments.com" target="_blank">accountingexperiments.com</a>
 
-### Connect with me
+#### Connect with me
 [![Website](https://img.shields.io/website?label=victorvanpelt.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://victorvanpelt.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victorvanpelt)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:victor.vanpelt@whu.edu)
