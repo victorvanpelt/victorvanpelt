@@ -8,6 +8,9 @@
 - I write blog posts about experimental research in accounting at [www.accountingexperiments.com](https://www.accountingexperiments.com)
 
 ### Connect with me
+[website]: https://www.victorvanpelt.com
+[linkedin]: https://www.linkedin.com/in/victorvanpelt/
+[twitter]: https://www.twitter.com/victorvanpelt
 [<img align="left" alt="victorvanpelt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="victorvanpelt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="victorvanpelt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
