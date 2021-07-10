@@ -7,9 +7,9 @@
 
 ### Connect with me
 [![Website](https://img.shields.io/website?label=victorvanpelt.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://victorvanpelt.com)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victorvanpelt)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victorvanpelt)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:victor.vanpelt@whu.edu)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorvanpelt/)
 
 
 
