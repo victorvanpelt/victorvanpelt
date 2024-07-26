@@ -5,5 +5,5 @@
 - For more information, visit my personal page at <a href="https://www.victorvanpelt.com" target="_blank">victorvanpelt.com</a>
 ### Connect with me?
 [![Email](https://img.shields.io/badge/Email_me-D95F0E?style=flat)](mailto:victor.vanpelt@whu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=D95F0E)](https://www.linkedin.com/in/victorvanpelt/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=D95F0E)](https://twitter.com/victorvanpelt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorvanpelt/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/victorvanpelt)
