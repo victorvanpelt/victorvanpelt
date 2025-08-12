@@ -6,6 +6,5 @@
 ### Connect with me?
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:victor.vanpelt@whu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorvanpelt/)
-[![X](https://img.shields.io/badge/follow_me_on_X-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/victorvanpelt)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-3471-3872)
 
